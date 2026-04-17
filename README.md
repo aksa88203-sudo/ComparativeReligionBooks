@@ -3,7 +3,7 @@
 This repository is organized under `library/` by topic.
 
 ## atheism
-My first contribution via fork and PR
+
 - AtheismIslam_ShoaibMalik.pdf
 - Ten-Proofs-for-The-Existence-of-God.pdf
 - The Divine Reality PDF.pdf
